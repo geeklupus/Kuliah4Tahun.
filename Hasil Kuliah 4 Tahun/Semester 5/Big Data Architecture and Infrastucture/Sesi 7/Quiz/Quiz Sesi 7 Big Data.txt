@@ -1,0 +1,14 @@
+1. Apa fungsi dari Resource Manager dalam Hadoop YARN?
+C. Mengelola sumber daya komputasi dan penjadwalan aplikasi
+2. Apa yang dimaksud dengan Kehandalan Tinggi dalam konteks Hadoop?
+B. Kemampuan untuk menjalankan klaster Hadoop tanpa gangguan meskipun ada kegagalan hardware atau perangkat.\
+3. Apa yang dimaksud dengan Hadoop Ecosystem?
+A. Sekumpulan proyek dan alat terkait yang berjalan di ekosistem Hadoop
+4. Apa perbedaan utama antara MapReduce dan Apache Spark?
+B. MapReduce adalah model pemograman yang menggunakan DAG, dan Apache Spark adalah sistem pemrosesan data real-time.
+5. Apa fungsi utama dari Apache Pig dalam ekosistem Hadoop?
+C. Pig adalah alat untuk melakukan ekstraksi, transformasi, dan analisis data dalam ekosistem Hadoop.
+6. Hive digunakan untuk apa dalam ekosistem Hadoop?
+B. Hive adalah alat untuk menjalankan query SQL terhadap data yang tersimpan dalam HDFS.
+7. Apa tujuan utama dari MapReduce dalam pemrosesan data terdistribusi?
+A. Memetakan data ke dalam bentuk key-value pairs.
